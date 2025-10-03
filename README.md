@@ -187,7 +187,8 @@ The testbench.v file is a test module to verify the functionality of vsdbabysoc.
 
 1. Clone the BabySoC project repo.
 
-<img width="767" height="576" alt="Screenshot 2025-10-03 165752" src="https://github.com/user-attachments/assets/2025db62-fbea-4f93-9fb7-33313b22aa93" />
+ ![Uploading WhatsApp Image 2025-10-03 at 21.11.04_50e5b101.jpg…]()
+
  
 2. Compile the BabySoC Verilog modules using iverilog.
 3. Simulate and generate .vcd waveform files.
