@@ -201,4 +201,4 @@ The testbench.v file is a test module to verify the functionality of vsdbabysoc.
 ![WhatsApp Image 2025-10-03 at 21 11 04_f876e8b7](https://github.com/user-attachments/assets/aac678a5-ba6c-4a5a-9da2-a08c9c7f659d)
 
 ### Acknowledgement
-Fcaing issue in simualting the vsdbabysoc.v module as rvmyth.tlv required to be converted into .v but error is occurring and it is not resolving evean after taking the help of chatgpt 
+Facing issue in simulating the vsdbabysoc.v module as rvmyth.tlv required to be converted into .v but error is occurring and it is not resolving even after taking the help of chatgpt 
