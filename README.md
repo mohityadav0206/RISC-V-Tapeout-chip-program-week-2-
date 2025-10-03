@@ -187,7 +187,8 @@ The testbench.v file is a test module to verify the functionality of vsdbabysoc.
 
 1. Clone the BabySoC project repo.
 
- ![Uploading WhatsApp Image 2025-10-03 at 21.11.04_50e5b101.jpg…]()
+  <img width="805" height="571" alt="Screenshot 2025-10-03 220504" src="https://github.com/user-attachments/assets/b0a003ad-e5ef-43f1-ad45-c971ab1b0fde" />
+
 
  
 2. Compile the BabySoC Verilog modules using iverilog.
@@ -196,8 +197,8 @@ The testbench.v file is a test module to verify the functionality of vsdbabysoc.
     - Reset operation
     - Clocking
     - Dataflow between modules
-
-<img width="1854" height="469" alt="Screenshot 2025-10-03 105948" src="https://github.com/user-attachments/assets/c4a77417-b326-425c-9201-e9e1ee18e2fa" />
+ 
+![WhatsApp Image 2025-10-03 at 21 11 04_f876e8b7](https://github.com/user-attachments/assets/aac678a5-ba6c-4a5a-9da2-a08c9c7f659d)
 
 ### Acknowledgement
-I'm grateful to the VSD team for t
+Fcaing issue in simualting the vsdbabysoc.v module as rvmyth.tlv required to be converted into .v but error is occurring and it is not resolving evean after taking the help of chatgpt 
